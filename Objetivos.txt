@@ -1,0 +1,9 @@
+leer el excel-------------- 
+
+parcearlo a json y guarldarlo-------------
+
+calcular proveedor con menor precio por cada producto--------------
+
+generar json file con los precios ordenados----------------
+
+generar un excel apartir del json anterior

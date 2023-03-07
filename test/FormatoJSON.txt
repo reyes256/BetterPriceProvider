@@ -1,0 +1,39 @@
+{
+   "productos": [
+      {
+         "id": "producto1",
+         "proveedores": [
+            {
+               "nombre": "Proveedor A",
+               "precio": 10.99
+            },
+            {
+               "nombre": "Proveedor B",
+               "precio": 12.99
+            },
+            {
+               "nombre": "Proveedor C",
+               "precio": 9.99
+            }
+         ]
+      },
+      {
+         "id": "producto2",
+         "proveedores": [
+            {
+               "nombre": "Proveedor A",
+               "precio": 5.99
+            },
+            {
+               "nombre": "Proveedor B",
+               "precio": 6.99
+            },
+            {
+               "nombre": "Proveedor C",
+               "precio": 7.99
+            }
+         ]
+      },
+      ... // resto de los productos
+   ]
+}
